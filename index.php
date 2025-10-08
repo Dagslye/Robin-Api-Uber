@@ -1,2 +1,2 @@
-<?ph
-echo "Ceci est la page index.php";
+<?php
+echo "Cette page est introuvable.";
